@@ -1,7 +1,11 @@
 Project Summary: Market Basket Analysis Using Apriori Algorithm
+
 This project applies the Apriori algorithm, an association rule learning technique, to discover relationships between products purchased together. It is part of my daily machine learning practice uploads on GitHub.
+
 📌 Objective
+
 To identify frequent itemsets and generate association rules that help understand customer purchasing behavior.
+
 📊 Dataset
 
 Dataset used: Market_Basket_Optimisation.csv
